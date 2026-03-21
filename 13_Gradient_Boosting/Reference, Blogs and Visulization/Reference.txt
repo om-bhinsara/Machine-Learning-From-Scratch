@@ -1,0 +1,9 @@
+Gradient Boosting for classification: 
+https://www.youtube.com/watch?v=4p5EQtyxSyI&list=PLHfe9-lMyRPYg1zDI1iQkwUzLbjPlnUdY&index=1&pp=iAQB
+
+
+Gradient Boosting for Regression:
+https://www.youtube.com/watch?v=nMNiTZm-qY0&list=PLHfe9-lMyRPYg1zDI1iQkwUzLbjPlnUdY&index=2&pp=iAQB
+
+Notebook used in lectures
+https://colab.research.google.com/drive/15G44KBuSgHs7hdSIuhwh-LR7Qur4xRyD?usp=sharing
